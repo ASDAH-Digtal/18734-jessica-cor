@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T00:18:49.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2gvUPhfgDfYFMpY694YB" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T00:46:17.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tLetpAPoEpiQ0FKnpBjD" version="14.6.13" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-61" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="650" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-62" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
+        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-62" value="Harry Potter" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-63" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
@@ -28,13 +28,10 @@
           <mxGeometry x="10" y="350" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-72" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
-          <mxGeometry x="180" y="180" width="450" height="160" as="geometry" />
+          <mxGeometry x="230" y="180" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-73" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
-          <mxGeometry x="180" y="350" width="320" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-74" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
-          <mxGeometry x="510" y="350" width="130" height="130" as="geometry" />
+          <mxGeometry x="180" y="350" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-75" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
           <mxGeometry x="10" y="490" width="630" height="90" as="geometry" />
@@ -43,7 +40,7 @@
           <mxGeometry x="10" y="590" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-79" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
-          <mxGeometry x="180" y="180" width="450" height="160" as="geometry" />
+          <mxGeometry x="230" y="180" width="410" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-80" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
           <mxGeometry x="10" y="350" width="160" height="130" as="geometry" />
@@ -51,8 +48,17 @@
         <mxCell id="Sd2tZ3bKALMnqHNlc7l4-82" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
           <mxGeometry x="10" y="490" width="630" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-83" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
+        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-83" value="Jessica Corric Copyright 2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
           <mxGeometry x="10" y="590" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2017/06/15/08/35/hogwarts-2404481_960_720.jpg;" vertex="1" parent="Sd2tZ3bKALMnqHNlc7l4-61">
+          <mxGeometry x="10" y="180" width="213.33" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-86" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Sd2tZ3bKALMnqHNlc7l4-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2016/09/02/22/59/harry-potter-1640521_960_720.jpg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="362.35" width="180" height="125.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
