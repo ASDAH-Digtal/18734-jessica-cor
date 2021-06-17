@@ -21,46 +21,54 @@ Date:
     "footer footer footer";
 }
 
-.container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
-}
+
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    background-color: var(--main-bg-colour);
-    color: var(--main-colour);
+    background-color: #FFCCE6;
+    color: #000000;
 }
+
+
+
 
 .main{ /*DO NOT REMOVE*/
     grid-area: main;
-    background-color: var(--sec-bg-colour);
-    color: var(--main-colour);
+    background-color: #FFCCE6;
+    color: #000000;
 }
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
-    background-color: var(--main-colour);
+    background-color:#189ab4;
+    text-align: center;
+    padding: 50px; 
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
-    background-color: var(--main-colour);
+    background-color: #75e6da;
+    text-align: center;
+    padding: 50px;
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+    padding: 50px;
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    padding: 50px;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
+    padding: 50px;
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color: var(--main-bg-colour);
-    color: var(--main-colour);
+    background-color: #E6D0DE;
+    color: #000000;
 }
